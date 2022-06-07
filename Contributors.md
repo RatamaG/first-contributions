@@ -1,6 +1,7 @@
 ﻿  # **Contributors**
 
 <!-- prettier-ignore-start -->
+- [RtamaG] (https://github.com/RatamaG)
 - [chewbacca234] (https://github.com/chewbacca234)
 - [jagoanteknoku] (https://github.com/jagoanteknoku)
 - [Suhas Gumma]  (https://github.com/suhasgumma)
